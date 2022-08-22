@@ -1,0 +1,28 @@
+# Html-lap1
+<! DOCTYPE html >
+< html >
+
+< đầu >
+    < title > Đoạn văn </ title >
+</ head >
+
+< body  style = " text-align: center; " >
+    <! - <p> Đây là một đoạn văn. </p>
+    <p> Đây là một đoạn văn khác. </p>
+    <p>
+        Đoạn văn này
+        chứa rất nhiều dòng
+        trong mã nguồn,
+        nhưng trình duyệt
+        bỏ qua nó.
+    </p>
+    <p>
+        Đoạn văn này
+        chứa rất nhiều không gian
+        trong mã nguồn,
+        nhưng trình duyệt
+        bỏ qua nó.
+    </p> ->
+</ body >
+
+</ html > 
