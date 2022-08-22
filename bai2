@@ -1,0 +1,13 @@
+# Html-lap1
+<! DOCTYPE html >
+< html >
+    < đầu >
+        < title > Cơ bản </ title >
+    </ head >
+
+    < body >
+        < h1 > đây là tiêu đề </ h1 >
+        < h2 > đây là tiêu đề </ h2 >
+        < h3 > đây là tiêu đề </ h3 >
+    </ body >
+</ html >
