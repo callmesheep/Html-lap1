@@ -1,0 +1,22 @@
+# Html-lap1
+<! DOCTYPE html >
+< html >
+    < đầu >
+        < title > Định dạng </ title >
+        < meta  charset = " utf-8 " >
+    </ head >
+
+    < body >
+        < b > - Chữ đậm
+            < strong > - Quan trọng văn bản <br>
+            < i > - Văn bản in nghiêng <br>
+            < em > - Văn bản được nhấn mạnh <br>
+            < mark > - Văn bản được đánh dấu <br>
+            < small > - Văn bản nhỏ hơn <br>
+            < del > - Văn bản đã xóa <br>
+            < ins > - Chèn văn bản <br>
+            < sub > - Văn bản đăng ký <br>
+            < sup > - Siêu cấp văn bản <br>
+            < em > văn bản xác định được nhấn mạnh. </ em >
+    </ body >
+</ html >
