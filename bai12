@@ -1,0 +1,24 @@
+# Html-lap1
+<! DOCTYPE html >
+< html >
+
+< đầu >
+    < title > css; link </ title >
+    < meta  charset = " utf-8 " >
+    < link  rel = " stylesheet " href = " bai12.css " >
+</ head >
+
+< body  id = " baitap " >
+    < div  class = " mausac " >
+        < img  src = " img_girl.jpg " >
+        <a href = "https://www.w3schools.com"> Truy cập W3student < / a  >
+        < h1 > Tiêu đề 1 </ h1 >
+        < h2 > Tiêu đề 2 </ h2 >
+        < h3 > Tiêu đề 3 </ h3 >
+        < h4 > Tiêu đề 4 </ h4 >
+        < h5 > Tiêu đề 5 </ h5 >
+        < h6 > Tiêu đề 6 </ h6 >
+    </ div >
+</ body >
+
+</ html > 
