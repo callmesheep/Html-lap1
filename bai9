@@ -1,0 +1,27 @@
+# Html-lap1
+< html >
+
+< đầu >
+    < title > Trích dẫn </ title >
+</ head >
+
+< body  style = " text-align: center; " >
+    < p > Đây là trích dẫn từ trang web của WWF: </ p >
+    < blockquote  cite = " http://www.worldwildlife.org/who/index.html " >
+        Trong 50 năm, WWF đã bảo vệ tương lai của thiên nhiên.
+        Tổ chức bảo tồn hàng đầu thế giới,
+        WWF hoạt động ở 100 quốc gia và được hỗ trợ bởi
+        1,2 triệu thành viên ở Hoa Kỳ và
+        gần 5 triệu trên toàn cầu.
+    </ blockquote >
+    < p > Mục tiêu của WWF là: < q > Xây dựng một tương lai nơi mọi người sống hòa hợp với thiên nhiên. </ q > </ p >
+    < abbr > Định dạng chữ viết tắt hoặc từ viết tắt <br>    
+        < address > Xác định hệ thống thông tin cho tác giả / chủ sở hữu của một tài liệu <br> 
+        < bdo > Văn bản định hướng <br> 
+        < blockquote > Xác định một phần được trích dẫn từ một nguồn khác <br> 
+        < cite > Xác định tiêu đề của một tác phẩm <br> 
+        < q > Xác định một đoạn ngắn tuyến trích dẫn
+
+</ body >
+
+</ html > 
