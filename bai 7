@@ -1,0 +1,14 @@
+# Html-lap1
+<! DOCTYPE html >
+< html >
+
+< đầu >
+    < title > Kiểu </ title >
+</ head >
+
+< body  style = " background-color: green; " >
+    < h1  style = " background-color: yellow; color: red; font-family: verdana; " > Đây là tiêu đề </ h1 >
+    < p  style = " background-color: yellow; color: red; font-family: courier; " > Đây là một đoạn văn. </ p >
+
+</ body >
+</ html > 
